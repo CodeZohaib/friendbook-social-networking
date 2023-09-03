@@ -73,60 +73,58 @@ There are two options for resolving complaints:<br>
 These steps should help you customize your project name and database name according to your preferences. If you have any specific questions or need further assistance, please let me know.<br><br><br>
 
 **Project ScreenShot**<br><br>
-
-![index](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/4892685f-ca76-4c7b-9e73-fed4672e1aeb)
+![index](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/18f22c6f-fe78-484d-bc51-4026c8bce546)
 **FriendBook login Page**<br><br><br>
 
-![signup](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/d51f8882-029e-46d8-beb0-0f079e180324)
+![signup](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/688bccd7-33fc-4d78-9b5f-8947c30bbfc5)
 <br>**Signup Form**<br><br>
 
-![profile](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/f0f709e9-d03c-45f0-a249-f30e395c1d21)
+![profile](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/e40ef85e-a9e8-46d8-85f1-7b89e3d56e03)
 <br>**Profile Page**<br><br>
 
-![messages](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/a2d2e030-afea-412f-ad35-b10ee0d8aaa4)
+![messages](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/cfd609cf-303a-406e-b55e-47c67cf79a2c)
 <br>**Messages Page**<br><br>
 
-![friendRequest](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/1b351e47-b005-4232-b441-0559a0aa0d8c)
+![friendRequest](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/e4a38aea-4100-4d5d-8c52-d66dc498e788)
 <br>**Friend Request Page**<br><br><br>
 
-![people](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/b27270c0-537d-4b8c-aca9-93b258b81365)
+![people](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/0ec255f1-e10b-4803-9a25-914cd0e976ff)
 <br>**People Page**<br><br>
 
-![notification](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/06f132f1-92e3-4b68-a7cc-93842fd9a9ad)
+![notification](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/b5f6d368-756e-4eed-b8b0-91baaf1bb578)
 <br>**Notification Page**<br><br>
 
-![newsfeed](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/1e9349b1-63d0-4e07-9741-a08d1d17f926)
+![newsfeed](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/3dc5cd2e-52d5-4b1f-b40d-0f5e67285239)
 <br>**Newsfeed Page**<br><br>
 
-![newsfeedAudio](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/a327a710-675b-407a-b2a1-708a27ce49fd)
+![newsfeedAudio](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/8e22369f-e0ca-4efb-8419-55a57c4e04bb)
 <br>**Newsfeed Audio Page**<br><br>
 
-![newsfeedImages](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/1840af3b-abc5-4c7d-b45a-840d955ee98c)
+![newsfeedImages](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/040e925e-0740-471a-b273-9e724873b7c5)
 <br>**Newsfeed Images Page**<br><br>
 
-![blocklist](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/c57c7817-44ff-4d66-b3cd-e8130aad520e)
+![blocklist](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/7f6f41ad-f621-4959-b52b-d64121a44301)
 <br>**Blocklist Page**<br><br>
 
-![timeline](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/9da770ca-cce9-4afd-b7df-06168a52b397)
+![timeline](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/a4b6ae00-873a-4a95-8150-17bfcbce51c0)
 <br>**Timeline Page**<br><br>
 
-![adminlogin](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/558adbbb-278e-490a-b836-92fb9b10120e)
+![adminlogin](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/be4c7a85-cc6b-406f-a008-0c5938a4004f)
 <br>**Admin login Page**<br><br>
 
-![Dashboard](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/bf655649-4331-4717-971b-016711409add)
+![Dashboard](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/d4745cc6-79b3-4ea4-a621-2b98caee47a4)
 **Admin Dashboard Page**<br><br><br>
 
-![accountVerification](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/83335aeb-8d6f-489e-a433-8ca7fe774f33)
+![accountVerification](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/2a2e2b2d-f521-4c36-bd59-bd66e0ebca8b)
 **Account Verification Page**<br><br><br>
 
-![allUsers](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/ab18e18c-f774-4dd5-b9a6-b3b61cea06de)
+![allUsers](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/670369c8-c868-4a51-955d-7681fc6fea54)
 **All Users Page**<br><br><br>
 
-
-![reported Account](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/1ff3f83e-cf95-4e60-865a-1f6ff59aa130)
+![reported Account](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/80bc73ee-7553-4a78-81a7-fa02381f2b28)
 **Reported Account Page**<br><br><br>
 
-![postreported](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/c4d5cb38-45ab-42a6-ab53-790cb643913d)
+![postreported](https://github.com/CodeZohaib/friendbook-social-networking/assets/142882799/b752b498-c6cd-4819-b36d-708f2943c0d7)
 **Reported Posts Page**<br><br><br>
 
 
